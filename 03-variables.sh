@@ -1,13 +1,10 @@
 # If we assign a name to a set of data is called as variable
 # variable=data
-
 # To access variable we use $variable or ${variable}
-
 trainer=Steve
 
 echo DevOps Trainer - $trainer
 echo AWS Trainer - $trainer
-
 
 # Variable name can comprise - a-z, A-Z, 0-9, _
 # OS Background - ALL CAPS - VARIABLE_NAME
@@ -17,7 +14,6 @@ echo AWS Trainer - $trainer
 # Data - Free to give anything, No data type, Everything is string.
 # In case if we have special characters in data, then do use double quotes
 # trainer="John Jacob"
-
 
 # src=x.txt
 # dest=y.txt
