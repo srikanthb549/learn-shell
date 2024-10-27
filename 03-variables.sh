@@ -15,7 +15,7 @@ echo AWS Trainer - $trainer
 # Python Background - snake_case - variable_name
 
 # Data - Free to give anything, No data type, Everything is string.
-# In case if we have special characeters in data, then do use double quotes
+# In case if we have special characters in data, then do use double quotes
 # trainer="John Jacob"
 
 
@@ -42,7 +42,7 @@ echo $x
 # x=20
 # second time x will get replaced with out any warnings or errors.
 
-# Assume example.sh is havign the following code.
+# Assume example.sh is having the following code.
 # echo x - $x
 
 # 2. Variables declared in CLI cannot be accessed when we execute the script
