@@ -1,2 +1,2 @@
 ls -lrt
-find .
+#find .
