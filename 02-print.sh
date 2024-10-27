@@ -2,7 +2,7 @@
 # echo is simple approach nd widely used, we will learn it .
 # echo Input
 
-echo Hello World
+echo How are You Srikanth.
 
 # print colors
 # syntax: echo -e "\e[COLmHello World\e[0m"
